@@ -2,25 +2,31 @@
 
 I started this project in order to test the waters of Game Development.
 
-This is a simple First Person Shooter game (FPS) created using Unreal Engine 5.2.
+This is a simple First Person Shooter game (FPS) created using Unreal Engine 5.2. I originally wanted to create a game that feaatured animations for Rifles, Pistols, and throwing knives. I also wanted to add melee combat as well. I was only able to include rifle and pistol animations.
 
 
-[Software Demo Video](https://youtu.be/hOdl-kJ-fbw)
+[Demo Video](https://youtu.be/hOdl-kJ-fbw)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Epic Games
+* Unreal Engine 5.2
+* Blender
 
-{Describe the programming language that you used and any libraries.}
+# Languages
+
+* C++
+* Blue Prints - Programming Graph Representation
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Epic Games](https://store.epicgames.com/en-US/)
+* [Unreal Engine](https://www.unrealengine.com/en-US)
+* [Blender 3.6](https://www.blender.org/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add music
+* Add more particle affects
+* Add Enemies
+* Add Melee Attacks
